@@ -1,6 +1,6 @@
 Usage: `python coxeter_diagram_simplex_division.py`
 
-==Examples==
+# Examples
 
 Showing that `o3o3o4o4/3*b` has tesseractic symmetry:
 
