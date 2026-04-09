@@ -1,5 +1,9 @@
 Usage: `python coxeter_diagram_simplex_division.py`
 
+# A note about symmetry names
+
+I use the names B(n) for demicubic symmetry, C(n) for hypercubic symmetry, D(n)[p] for p-gonal symmetry, and G(n) for pentagonal polytope symmetry, as they appear in the leftmost column of this table: https://bendwavy.org/klitzing/explain/dynkin.htm#sym. These are different from the most commonly used names of these symmetries. I prefer this system because it uses every letter from A to G for one thing and is part of a larger system that uses P to W for Euclideans.
+
 # Examples
 
 Showing that `o3o3o4o4/3*b` has tesseractic symmetry:
